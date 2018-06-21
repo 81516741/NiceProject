@@ -775,8 +775,8 @@
 				TargetAttributes = {
 					6BF3A1041D9913EA00583D4D = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 555MSEDP84;
-						ProvisioningStyle = Manual;
+						DevelopmentTeam = G68W254JJ7;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -1075,7 +1075,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 555MSEDP84;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = G68W254JJ7;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/NiceProject/Lib/TencentOpenApi",
@@ -1113,10 +1114,10 @@
 					"-Objc",
 					"-all_load",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.KingPoint.gmcchh;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ygk.nihao1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "21334945-9d55-41b7-ad0f-9c517d13dca6";
-				PROVISIONING_PROFILE_SPECIFIER = devProfileGmcchh;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -1127,7 +1128,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 555MSEDP84;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = G68W254JJ7;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/NiceProject/Lib/TencentOpenApi",
@@ -1165,10 +1167,10 @@
 					"-Objc",
 					"-all_load",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.KingPoint.gmcchh;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ygk.nihao1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "21334945-9d55-41b7-ad0f-9c517d13dca6";
-				PROVISIONING_PROFILE_SPECIFIER = devProfileGmcchh;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
